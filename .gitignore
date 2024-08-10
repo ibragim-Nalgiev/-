@@ -1,0 +1,7 @@
+/venv
+/my_venv
+requirements.txt
+.idea
+.pytest_cache
+_pycache_
+.env
